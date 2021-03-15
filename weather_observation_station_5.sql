@@ -1,4 +1,4 @@
--- https://www.hackerrank.com/challenges/weather-observation-station-5/submissions/code/204340890
+-- https://www.hackerrank.com/challenges/weather-observation-station-5/problem
 (
     select  
         CITY,
