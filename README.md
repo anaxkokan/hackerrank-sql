@@ -12,6 +12,7 @@ Solutions to HackerRank's SQL problems
 - [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) - [solution](weather_observation_station_11.sql)
 - [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) - [solution](weather_observation_station_12.sql)
 - [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) - [solution](more_than_75_marks.sql)
+- [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) - [solution](name_of_employees.sql)
 
 ### 2021-03-15
 
