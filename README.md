@@ -10,6 +10,7 @@ Solutions to HackerRank's SQL problems
 - [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) - [solution](weather_observation_station_9.sql)
 - [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) - [solution](weather_observation_station_10.sql)
 - [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) - [solution](weather_observation_station_11.sql)
+- [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) - [solution](weather_observation_station_12.sql)
 
 ### 2021-03-15
 
