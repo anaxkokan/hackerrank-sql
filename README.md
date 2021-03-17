@@ -2,7 +2,7 @@
 
 Solutions to HackerRank's SQL problems
 
-### 2021-03-16
+### 2021-03-17
 
 - [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) - [solution](salary_of_employees.sql)
 
