@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-03-18
+
+- [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) - [solution](average_population_of_each_continent.sql)
+
 ### 2021-03-17
 
 - [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) - [solution](salary_of_employees.sql)
