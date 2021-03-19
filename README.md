@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-03-19
+
+- [The Report](https://www.hackerrank.com/challenges/the-report/problem) - [solution](the_report.sql)
+
 ### 2021-03-18
 
 - [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) - [solution](average_population_of_each_continent.sql)
