@@ -5,7 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-03-19
 
 - [The Report](https://www.hackerrank.com/challenges/the-report/problem) - [solution](the_report.sql)
-- [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem)- [solution](full_score.sql)
+- [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) - [solution](full_score.sql)
 
 ### 2021-03-18
 
