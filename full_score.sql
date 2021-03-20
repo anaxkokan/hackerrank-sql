@@ -28,12 +28,22 @@ perfect_scores_count as (
     from perfect_scores
     group by hacker_id
     
+),
+
+final as (
+
+    select
+        perfect_scores_count.hacker_id,
+        hackers.name,
+        perfect_scores_count.num_perfect
+    from perfect_scores_count 
+    inner join hackers on perfect_scores_count.hacker_id = hackers.hacker_id
+    where perfect_scores_count.num_perfect > 1
+    
 )
 
 select
-    perfect_scores_count.hacker_id,
-    hackers.name
-from perfect_scores_count 
-inner join hackers on perfect_scores_count.hacker_id = hackers.hacker_id
-where perfect_scores_count.num_perfect > 1
-order by perfect_scores_count.num_perfect desc, hacker_id;
+    hacker_id,
+    name
+from final
+order by num_perfect desc, hacker_id;
