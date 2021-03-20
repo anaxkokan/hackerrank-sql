@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-03-20
 
 - [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) - [solution](harry_potter_and_wands.sql)
+- [Challenges](https://www.hackerrank.com/challenges/challenges/problem) - [solution](challenges.sql)
 
 ### 2021-03-19
 
