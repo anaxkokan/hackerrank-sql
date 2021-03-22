@@ -4,7 +4,7 @@ Solutions to HackerRank's SQL problems
 
 ### 2021-22-20
 
--[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) - [solution](contest_leaderboard.sql)
+- [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) - [solution](contest_leaderboard.sql)
 
 ### 2021-03-20
 
