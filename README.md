@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-03-22
 
 - [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) - [solution](contest_leaderboard.sql)
+- [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) - [solution](population_density_difference.sql)
 
 ### 2021-03-20
 
