@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-22-20
+
+-[Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) - [solution](contest_leaderboard.sql)
+
 ### 2021-03-20
 
 - [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) - [solution](harry_potter_and_wands.sql)
