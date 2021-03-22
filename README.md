@@ -7,6 +7,7 @@ Solutions to HackerRank's SQL problems
 - [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) - [solution](contest_leaderboard.sql)
 - [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) - [solution](population_density_difference.sql)
 - [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) - [solution](the_blunder.sql)
+- [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) - [solution](earnings_of_employees.sql)
 
 ### 2021-03-20
 
