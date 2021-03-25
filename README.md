@@ -4,7 +4,7 @@ Solutions to HackerRank's SQL problems
 
 ### 2021-03-25
 
-- [Placements](https://www.hackerrank.com/challenges/placements/problem) - [solutions](placements.sql)
+- [Placements](https://www.hackerrank.com/challenges/placements/problem) - [solution](placements.sql)
 
 ### 2021-03-22
 
