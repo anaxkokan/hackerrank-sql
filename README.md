@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-03-30
 
 - [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) - [solution](symmetric_pairs.sql)
+- [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) - [solution](SQL_project_planning.sql)
 
 ### 2021-03-25
 
