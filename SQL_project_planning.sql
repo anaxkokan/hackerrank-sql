@@ -1,4 +1,4 @@
---
+--https://www.hackerrank.com/challenges/sql-projects/problem
 with project_start as (
     
     select main.start_date
@@ -24,7 +24,8 @@ final as (
     start_date,
     min(end_date) as min_end_date
     from project_start
-    full outer join project_end on start_date < end_date
+    full outer join project_end
+    on start_date < end_date
     group by start_date
     
 )
@@ -32,5 +33,5 @@ final as (
 select * 
 from final
 order by 
-    datediff(day, start_date, min_end_date), 
+    datediff(day, start_date, min_end_date),    
     start_date;
