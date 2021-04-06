@@ -1,5 +1,5 @@
 --https://www.hackerrank.com/challenges/symmetric-pairs/problem
-with not_same as (
+with different as (
     
     select 
     this.x,
@@ -9,6 +9,7 @@ with not_same as (
     on this.x = other.y and this.y = other.x
     where this.x < this.y
    
+    
 ),
 
 same_count as (
@@ -17,7 +18,8 @@ same_count as (
         x,
         y,
         count(x) as same_x
-    from functions 
+    from functions
+    where x = y
     group by x, y
 
 ),
@@ -35,24 +37,12 @@ keep as (
     
 ),
 
-same_kept as (
-    
-    select 
-        x,
-        y
-    from keep
-    where to_keep = 'yes'
-    
-),
-
 final as (
     
-    select x, y
-    from not_same
+    select x, y from different
     union all
-    select x, y 
-    from same_kept
-    
+    select x, y from keep
+    where to_keep = 'yes'
 )
 
 select * from final
