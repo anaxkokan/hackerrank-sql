@@ -6,6 +6,7 @@ Solutions to HackerRank's SQL problems
 
 - [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) - [solution](the_pads.sql)
 - [Interviews](https://www.hackerrank.com/challenges/interviews/problem) - [solution](interviews.sql) 
+- [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) - [solution](what_type_of_triangle.sql)
 
 ### 2021-03-30
 
