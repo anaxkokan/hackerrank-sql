@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-04-06
+
+- [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) - [solution](the_pads.sql)
+
 ### 2021-03-30
 
 - [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) - [solution](symmetric_pairs.sql)
