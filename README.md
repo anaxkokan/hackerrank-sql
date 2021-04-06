@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-04-06
 
 - [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) - [solution](the_pads.sql)
+- [Interviews](https://www.hackerrank.com/challenges/interviews/problem) - [solution](interviews.sql) 
 
 ### 2021-03-30
 
