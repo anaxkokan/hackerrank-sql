@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-04-07
 
 - [Occupations](https://www.hackerrank.com/challenges/occupations/problem) - [solution](occupations.sql)
+- [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) - [solution](binary_search_tree_1.sql)
 
 ### 2021-04-06
 
