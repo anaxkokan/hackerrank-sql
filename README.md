@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-04-07
+
+- [Occupations](https://www.hackerrank.com/challenges/occupations/problem) - [solution](occupations.sql)
+
 ### 2021-04-06
 
 - [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) - [solution](the_pads.sql)
