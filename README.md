@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-04-08
+
+- [New Companies](https://www.hackerrank.com/challenges/the-company/problem) - [solution](the_company.sql)
+
 ### 2021-04-07
 
 - [Occupations](https://www.hackerrank.com/challenges/occupations/problem) - [solution](occupations.sql)
