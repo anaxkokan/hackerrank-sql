@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ### 2021-04-08
 
 - [New Companies](https://www.hackerrank.com/challenges/the-company/problem) - [solution](the_company.sql)
+- [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) - [solution](/weather_observation_station_18.sql)
 
 ### 2021-04-07
 
