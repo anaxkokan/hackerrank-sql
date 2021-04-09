@@ -2,12 +2,16 @@
 
 Solutions to HackerRank's SQL problems
 
+### 2021-04-09
+
+- [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) - [solution](weather_observation_station_20.sql)
+
 ### 2021-04-08
 
 - [New Companies](https://www.hackerrank.com/challenges/the-company/problem) - [solution](the_company.sql)
 - [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) - [solution](/weather_observation_station_18.sql)
 - [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) - [solution](revising_aggregations_the_count_function.sql) 
-- [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) - [solution](weather_observation_station_19.sql)
+- [Weather Observation Station 19](https://www.hackerrank.com/challenges/https://www.hackerrank.com/challenges/weather-observation-station-19/problem/problem) - [solution](weather_observation_station_19.sql)
 
 ### 2021-04-07
 
