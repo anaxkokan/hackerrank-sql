@@ -6,6 +6,7 @@ Solutions to HackerRank's SQL problems
 
 - [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) - [solution](revising_aggregations_sum.sql)
 - [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) - [solution](revising_aggregations_the_average_function.sql)
+- [Average Population](https://www.hackerrank.com/challenges/average-population/problem) - [solution](average_population.sql)
 
 ### 2021-04-09
 
