@@ -4,8 +4,7 @@ Solutions to HackerRank's SQL problems
 
 ## 2021-04-14
 
-- [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) - [solution]
-(revising_aggregations_sum.sql)
+- [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) - [solution](revising_aggregations_sum.sql)
 
 ### 2021-04-09
 
