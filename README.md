@@ -6,6 +6,7 @@ Solutions to HackerRank's SQL problems
 
 - [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) - [solution](15_days_of_learning_sql.sql)
 - [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) - [solution](weather_observation_station_15.sql)
+- [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) - [solution](weather_observation_station_16.sql)
 
 ## 2021-04-14
 
