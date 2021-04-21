@@ -2,6 +2,10 @@
 
 Solutions to HackerRank's SQL problems
 
+## 2021-04-21
+
+- [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) - [solution](15_days_of_learning_sql.sql)
+
 ## 2021-04-14
 
 - [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) - [solution](revising_aggregations_sum.sql)
