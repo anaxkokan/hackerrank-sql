@@ -7,6 +7,7 @@ Solutions to HackerRank's SQL problems
 - [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) - [solution](african_cities.sql)
 - [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) - [solution](japan_population.sql)
 - [Population Census ](https://www.hackerrank.com/challenges/asian-population/problem) - [solution](asian_population.sql)
+- [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) - [solution](weather_observation_station_2.sql)
 
 ## 2021-04-21
 
