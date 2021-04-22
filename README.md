@@ -5,6 +5,7 @@ Solutions to HackerRank's SQL problems
 ## 2021-04-21
 
 - [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) - [solution](african_cities.sql)
+- [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) - [solution](japan_population.sql)
 
 ## 2021-04-21
 
