@@ -4,7 +4,7 @@ Solutions to HackerRank's SQL problems
 
 ## 2021-04-21
 
--[African Cities](https://www.hackerrank.com/challenges/african-cities/problem) - [solution](african_cities.sql)
+- [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) - [solution](african_cities.sql)
 
 ## 2021-04-21
 
